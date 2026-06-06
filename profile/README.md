@@ -6,10 +6,12 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=FF2B45&center=true&vCenter=true&width=700&lines=Custom+Minecraft+plugins;Internal+tools+for+Watones;Staff+systems+and+server+automation;Infrastructure+for+MindTrust" />
 <br><br>
-**Minecraft, código propio e infraestructura para Watones.**
+Minecraft, código propio e infraestructura para Watones.
 Watones Network es el espacio técnico detrás de nuestros sistemas, plugins y herramientas internas.
 </div>
+
 ---
+
 ### Qué hacemos
 Construimos cosas para que Watones funcione mejor:
 ```txt
@@ -17,20 +19,23 @@ plugins        staff tools        eventos
 kits           permisos           automatización
 infra          rendimiento        MindTrust
 ```
+
 ---
+
 ### Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,maven,git,github,linux,docker,mysql,js,nodejs" />
 </p>
+
 ---
+
 ### Founder
 **Oscar Albornoz**  
-Founder of Watones Network · Software Developer
+Founder of Watones Network · Software Developer  
 Desde Ecuador, construyendo una red Minecraft con identidad propia, sistemas propios y una base técnica pensada para crecer.
+
 ---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:ff0033,45:7a0015,100:070707" />
 </div>
-
-
-A mi si me aparece el logo pero a otras personas no como lo arreglo?
