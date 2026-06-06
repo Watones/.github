@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:070707,45:7a0015,100:ff0033&text=Watones%20Network&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Minecraft%20systems%20built%20for%20our%20own%20network&descSize=15&descAlignY=62" />
+<img src="https://raw.githubusercontent.com/Watones/.github/main/profile/232953367.png" width="115" alt="Watones Network Logo" />
 
 <br>
 
